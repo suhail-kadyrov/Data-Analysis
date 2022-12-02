@@ -7,4 +7,4 @@
 > I can recommend `.csv`(Comma Separated Values) and `.xls`(MS Excel) file formats for this data.
 
 ## How would you evaluate the quality of the collected data?
-> I cannot say that this data is not very clean. Because it contains some useless items like numbers and commonly used basic words (u, bu, va, ta, ...).
+> I cannot say that this data is very clean. Because it contains some useless items like numbers and commonly used basic words (u, bu, va, ta, ...).
